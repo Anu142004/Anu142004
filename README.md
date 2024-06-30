@@ -9,7 +9,7 @@
 <a href="https://instagram.com/0814_ananya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0814_ananya" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anu0814" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anu0814" height="30" width="40" /></a>
 </p>
-<a href="https://www.linkedin.com/AnanyaT" target="blank"><img align="center" src="https://www.linkedin.com/in/ananya-t-52a82524a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="anu0814" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/Ananya" target="blank"><img align="center" src="https://www.linkedin.com/in/ananya-t-52a82524a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="anu0814" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
