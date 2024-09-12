@@ -1,7 +1,7 @@
 <h1 align="center">HI 👋 I am Ananya</h1>
 <h3 align="center">CODER🎯</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anu142004&label=Profile%20views&color=0e75b6&style=flat" alt="anu142004" /> </p>
-
+<h3 align='center'>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ananya14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ananya14" height="30" width="40" /></a>
