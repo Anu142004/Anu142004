@@ -1,10 +1,7 @@
-<h1 align="center">HI 👋 I am Ananya</h1>
-<h3 align="center">CODER🎯</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anu142004&label=Profile%20views&color=0e75b6&style=flat" alt="anu142004" /> </p>
-<p align='right'><img src="https://camo.githubusercontent.com/7121e075c5eb0d29a9e55c728f196e8914e2dea928bfc8e3ef1ccd8ff1ce716c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30362f36302f65662f30363630656665383266613364613432656435366565663031333137313833352e676966" alt="anu142004" /> </p>
+
 <h1 align="center">Hi 👋, I'm Ananya.T</h1>
 <h3 align="center">I am a student currently studying B.E engineering at jssateb. I very</h3>
-
+<p align='right'><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2F&psig=AOvVaw0JLm_qm3wd5wUNw2aCx5YM&ust=1726221216482000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCxtqeRvYgDFQAAAAAdAAAAABAJ" alt="anu142004" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anu142004&label=Profile%20views&color=0e75b6&style=flat" alt="anu142004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anu142004" alt="anu142004" /></a> </p>
