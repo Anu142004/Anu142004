@@ -3,7 +3,6 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anu142004&label=Profile%20views&color=0e75b6&style=flat" alt="anu142004" /> </p>
-<a href="https://www.codechef.com/users/anu0814" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anu0814" height="30" width="40" /></a>
 <h1 align="center">Hi 👋, I'm Ananya.T</h1>
 
 - 👨‍💻 All of my projects are available at [git hub](git hub)
