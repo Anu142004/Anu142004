@@ -3,7 +3,7 @@
 <h3 align="center">coding</h3>
 
 <p align='center'><img src="https://camo.githubusercontent.com/7121e075c5eb0d29a9e55c728f196e8914e2dea928bfc8e3ef1ccd8ff1ce716c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30362f36302f65662f30363630656665383266613364613432656435366565663031333137313833352e676966" alt="anu142004" /></p>
-- 📫 How to reach me **14ananya.thyagaraj@gmail.com**
+- 📫 How to reach me 14ananya.thyagaraj@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
