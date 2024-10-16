@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ananya T</h1>
-<h3 align="center">A Passionate Student in Coding</h3>
+<h3 align="center">A Passionate Computer Science Student</h3>
 
 <p align='center'>
     <img src="https://camo.githubusercontent.com/7121e075c5eb0d29a9e55c728f196e8914e2dea928bfc8e3ef1ccd8ff1ce716c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30362f36302f65662f30363630656665383266613364613432656435366565663031333137313833352e676966" alt="anu142004" />
 </p>
 
 <p align="center">
-    I'm a student, excited to be part of JSS, eager to learn new things and contribute to the tech community. I look forward to learning from tech enthusiasts and enhancing my skills!
+    I am a dedicated BE Computer Science student at JSS College, driven by a passion for technology and a commitment to lifelong learning. I thrive in collaborative environments, where I can work with fellow tech enthusiasts to innovate and solve complex problems. My strong foundation in data analysis empowers me to extract insights from data, and I'm always eager to learn and adopt new skills.
 </p>
 
-<p align='center'>📫 How to reach me: <a href="mailto:14ananya.thyagaraj@gmail.com">14ananya.thyagaraj@gmail.com</a></p>
+<p align="center">📫 How to reach me: <a href="mailto:14ananya.thyagaraj@gmail.com">14ananya.thyagaraj@gmail.com</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -87,23 +87,4 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
     </a>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-    </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-    </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-    </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
-    </a>
-</p>
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anu142004&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anu142004&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-
+        <img src="https://seaborn.py
