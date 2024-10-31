@@ -98,8 +98,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anu142004&icon=0&color=0)](https://visitcount.itsvg.in)
+<hr>
 
 [![An image of @anu142004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anu142004)](https://holopin.io/@anu142004)
 <img src="https://tryhackme-badges.s3.amazonaws.com/14ananya.thyagar.png" alt="Your Image Badge" />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
