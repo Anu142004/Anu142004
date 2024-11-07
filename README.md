@@ -6,7 +6,11 @@
 </p>
 
 <p align="center">
-    I am a dedicated BE Computer Science student at JSS College, driven by a passion for technology and  learning. I thrive in collaborative, where I can work with fellow tech enthusiasts to innovate and solve complex problems. My strong foundation in data analysts empowers me to extract insights from data, and I'm always eager to learn and adopt new skills.
+ I’m a dedicated BE Computer Science student at JSS College, passionate about technology, problem-solving, and continuous learning. I thrive in collaborative environments where I can work with like-minded individuals to innovate and tackle complex challenges. With a strong foundation in data analysis, I enjoy extracting actionable insights from data and am always excited to explore new tools, techniques, and technologies to expand my skillset.
+
+I am also an open-source contributor, have experience working as a web developer, and actively participate in tech meetups to stay updated with the latest trends in technology.
+
+
 </p>
 
 <p align="center">📫 How to reach me: <a href="mailto:14ananya.thyagaraj@gmail.com">14ananya.thyagaraj@gmail.com</a></p>
