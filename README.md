@@ -107,10 +107,8 @@ I am also an open-source contributor, have experience working as a web developer
 [![An image of @anu142004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anu142004)](https://holopin.io/@anu142004)
 <hr>
 <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/14ananyaanna08.png" alt="Your Image Badge" />
-
-
-
-
+<hr>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Anu142004&theme=dracula&exclude_days=Sun" alt="GitHub Streak" /></a>
 
 
 
