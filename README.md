@@ -105,7 +105,7 @@ I am also an open-source contributor, have experience working as a web developer
 ---
 [![](https://visitcount.itsvg.in/api?id=Anu142004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 [![An image of @anu142004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anu142004)](https://holopin.io/@anu142004)
 <hr>
 <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/14ananyaanna08.png" alt="Your Image Badge" />
@@ -119,7 +119,6 @@ I am also an open-source contributor, have experience working as a web developer
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
 
 </div>
 </details>
