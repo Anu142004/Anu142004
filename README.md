@@ -4,7 +4,12 @@
 <p align='center'>
     <img src="https://camo.githubusercontent.com/7121e075c5eb0d29a9e55c728f196e8914e2dea928bfc8e3ef1ccd8ff1ce716c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30362f36302f65662f30363630656665383266613364613432656435366565663031333137313833352e676966" alt="anu142004" />
 </p>
-    <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="anu142004" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
+  <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
+</picture>
+ 
 
 <p align="center">
  I’m a dedicated BE Computer Science student at JSS College, passionate about technology, problem-solving, and continuous learning. I thrive in collaborative environments where I can work with like-minded individuals to innovate and tackle complex challenges. With a strong foundation in data analysis, I enjoy extracting actionable insights from data and am always excited to explore new tools, techniques, and technologies to expand my skillset.
