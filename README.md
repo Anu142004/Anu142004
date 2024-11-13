@@ -12,8 +12,7 @@
 </p>
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ff7e5f, #feb47b, #ff7e5f);" />
-### 📫 How to Reach Me:
-- **Email:** [14ananya.thyagaraj@gmail.com](mailto:14ananya.thyagaraj@gmail.com)
+
 
 ### 🌐 Connect with Me:
 <p align="center">
