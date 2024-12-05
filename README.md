@@ -56,8 +56,8 @@
 <p align="center">
     <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/14ananyaanna08.png" alt="TryHackMe Badge" />
 </p>
-</details>
-<details>
+
+
  <summary><b>GSSOC (2024) Badges 🪶</b></summary>
  <div align="center">
     <a href="https://gssoc.girlscript.tech/leaderboard">
