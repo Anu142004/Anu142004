@@ -48,7 +48,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Anu142004&icon=0&color=0)](https://visitcount.itsvg.in)
 <details>
-### 🏅 Badges and Achievements:
+ <summary><b>🏅 Badges and Achievements:</b></summary>
 [![Ananya's Holopin Badges](https://holopin.me/anu142004)](https://holopin.io/@anu142004)
 <p align="center">
     <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/14ananyaanna08.png" alt="TryHackMe Badge" />
