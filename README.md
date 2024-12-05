@@ -49,10 +49,10 @@
 [![](https://visitcount.itsvg.in/api?id=Anu142004&icon=0&color=0)](https://visitcount.itsvg.in)
 <details>
  <summary><b>🏅 Badges and Achievements:</b></summary>
-    <p>
+    
   [![An image of @anu142004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anu142004)](https://holopin.io/@anu142004)
+ <img align="center" src="https://holopin.me/anu142004" alt="HOLOPIN" />
 
-    </p>
 <p align="center">
     <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/14ananyaanna08.png" alt="TryHackMe Badge" />
 </p>
