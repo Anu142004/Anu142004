@@ -23,7 +23,7 @@
 
 ### 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,fastapi,tensorflow,pytorch,opencv,aws,vercel,git,github,vscode,figma,linux,html,css,js,react,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,tensorflow,pytorch,opencv,aws,vercel,git,github,vscode,linux,html,css,js,react,mysql" />
 </p>
 
 ---
