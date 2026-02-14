@@ -14,7 +14,7 @@
 ---
 
 ### 🧠 About Me:
-- 🔍 I love solving real-world problems with **Data Analysis**, **AI/ML**, and **Web Development**.
+- 🔍 I love solving real-world problems with **Data Analysis**, **AI/ML**, and **Cloud**.
 - 🤝 Collaborator by nature – I enjoy building and creating with like-minded techies.
 - 💬 Always open to discussing tech ideas, open-source, or creative hacks.
 - 🌐 Tech meetups, Hackathons, GSSOC – count me in!
