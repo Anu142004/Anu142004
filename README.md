@@ -33,7 +33,6 @@
   <a href="https://dev.to/ananya14"><img src="https://skillicons.dev/icons?i=devto" /></a>
   <a href="https://www.linkedin.com/in/ananya-t-52a82524a/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://stackoverflow.com/users/25868913"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
-  <a href="https://instagram.com/0814_ananya"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://www.behance.net/ananyat1"><img src="https://skillicons.dev/icons?i=behance" /></a>
   <a href="https://medium.com/@14ananya.anna"><img src="https://skillicons.dev/icons?i=medium" /></a>
 </p>
