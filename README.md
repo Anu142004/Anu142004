@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ananya T</h1>
-<h3 align="center">🚀 Passionate Computer Science Engineer | Innovator </h3>
+<h3 align="center">🚀 Passionate Computer Science Engineer </h3>
 
 <p align="center">
   <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="Ananya T" align="left" width="300" height="300"  />
 </p>
 
 <p align="center">
-  🎓 BE CSE @ <strong>JSS College</strong> <br>
+  🎓 BE CSE @ <strong>JSS College</strong> 
   💡 Exploring AI, Web Dev, and Cloud | Building cool things with code <br>
   🌱 Always learning, always growing 🌟
 </p>
