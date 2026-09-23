@@ -74,15 +74,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anu142004&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu142004&layout=compact&theme=radical" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Anu142004&theme=dracula&exclude_days=Sun" />
-</p>
-
----
 
 ### 🏅 Achievements & Badges:
 <details>
