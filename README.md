@@ -19,7 +19,7 @@
 ---
 <div align="center">
 
-<table style="border: 2px solid #00FFFF; border-radius: 15px; box-shadow: 0 0 15px #00FFFF, 0 0 30px #8A2BE2;">
+<table border="2" bordercolor="#00FFFF" cellpadding="15" cellspacing="0">
 
 <tr>
 
