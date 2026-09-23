@@ -17,15 +17,30 @@
 </div>
 
 ---
+<table>
+<tr>
+<td width="65%" valign="top">
 
-### 🧠 About Me:
-- 🔍 I love solving real-world problems with **Data Analysis**, **AI/ML**, and **Cloud**.
-- 🤝 Collaborator by nature – I enjoy building and creating with like-minded techies.
-  <p align="right">
-  <img src="https://github.com/Anu142004/Anu142004/blob/main/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif?raw=true" alt="Animation"  width="300">
-</p>
-- 💬 Always open to discussing tech ideas, open-source, or creative hacks.
-- 🌐 Tech meetups, Hackathons, GSSOC – count me in!
+<h3>🧠 About Me:</h3>
+
+<ul>
+  <li>🔍 I love solving real-world problems with <b>Data Analysis</b>, <b>AI/ML</b>, and <b>Cloud</b>.</li>
+  <li>🤝 Collaborator by nature – I enjoy building and creating with like-minded techies.</li>
+  <li>💬 Always open to discussing tech ideas, open-source, or creative hacks.</li>
+  <li>🌐 Tech meetups, Hackathons, GSSOC – count me in!</li>
+</ul>
+
+</td>
+
+<td width="35%" align="right" valign="top">
+
+<img src="https://github.com/Anu142004/Anu142004/blob/main/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif?raw=true" 
+     alt="Coding Animation" 
+     width="300">
+
+</td>
+</tr>
+</table>
 
 
 
