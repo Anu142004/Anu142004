@@ -26,7 +26,7 @@
 <p align="center">
   <img align="center"
     src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&section=header"
-    width="90%"
+    width="98%"
   />
 </p>
 
