@@ -142,6 +142,8 @@ or creative hacks.
 <a href="https://medium.com/@14ananya.anna">
   <img src="https://skillicons.dev/icons?i=medium" />
 </a>
+</p>
+<p align="left">
 <!-- 💻 CODING PLATFORMS -->
 
 <a href="https://www.codechef.com/users/anu0814">
