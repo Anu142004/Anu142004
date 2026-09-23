@@ -23,7 +23,9 @@
 - 🤝 Collaborator by nature – I enjoy building and creating with like-minded techies.
 - 💬 Always open to discussing tech ideas, open-source, or creative hacks.
 - 🌐 Tech meetups, Hackathons, GSSOC – count me in!
-
+<p align="center">
+  <img src="https://gifdb.com/gif/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.html" alt="Animation" width="400">
+</p>
 ---
 
 ### 🛠️ Tech Stack:
