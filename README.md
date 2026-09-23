@@ -5,12 +5,23 @@
   <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="Ananya T" align="left" width="300" height="300"  />
 </p>
 
-<p align="center">
-🎓 BE CSE @<strong>JSS College</strong> 
-<br>
-💡 Exploring AI, Web Dev, and Cloud | Building cool things with code <br>
-🌱 Always learning, always growing 🌟
+<div align="center">
+
+<h2>🚀 Passionate Computer Science Engineer</h2>
+
+<p>
+  🎓 <b>BE CSE @ JSS College</b>
 </p>
+
+<p>
+  💡 Exploring AI, Web Dev, and Cloud | Building cool things with code
+</p>
+
+<p>
+  🌱 Always learning, always growing ☀️
+</p>
+
+</div>
 
 ---
 
