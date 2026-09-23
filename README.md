@@ -116,7 +116,12 @@ or creative hacks.
 <h2 align="center">🌐 Connect with Me</h2>
 
 <br>
-
+<p align="left">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&section=header"
+    width="90%"
+  />
+</p>
 <p align="center">
 
 <a href="https://dev.to/ananya14">
