@@ -24,7 +24,7 @@
 
 <!-- 🌈 RAINBOW LINE -->
 <p align="center">
-  <img
+  <img align="center"
     src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&section=header"
     width="90%"
   />
@@ -115,11 +115,14 @@ or creative hacks.
 <h2 align="center">🌐 Connect with Me</h2>
 
 <br>
-<img src="https://github.com/Anu142004/Anu142004/blob/main/git-home.gif?raw=true"
-     width="300"
-     alt="Coding Animation">
-<p align="center">
 
+<table align="center" width="90%">
+<tr>
+
+<!-- Social Links -->
+<td width="60%" align="center" valign="middle">
+
+<p>
 <a href="https://dev.to/ananya14">
   <img src="https://skillicons.dev/icons?i=devto" />
 </a>
@@ -139,8 +142,21 @@ or creative hacks.
 <a href="https://medium.com/@14ananya.anna">
   <img src="https://skillicons.dev/icons?i=medium" />
 </a>
-
 </p>
+
+</td>
+
+<!-- GIF on Right -->
+<td width="40%" align="right" valign="middle">
+
+<img src="https://github.com/Anu142004/Anu142004/blob/main/git-home.gif?raw=true"
+     width="300"
+     alt="Coding Animation">
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
