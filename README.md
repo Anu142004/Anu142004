@@ -143,7 +143,7 @@ or creative hacks.
   <img src="https://skillicons.dev/icons?i=medium" />
 </a>
 </p>
-<p align="left">
+<p align="center">
 <!-- 💻 CODING PLATFORMS -->
 
 <a href="https://www.codechef.com/users/anu0814">
