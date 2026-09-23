@@ -142,14 +142,7 @@ or creative hacks.
 <a href="https://medium.com/@14ananya.anna">
   <img src="https://skillicons.dev/icons?i=medium" />
 </a>
-
-</p>
-
-<br clear="right">
-
 <!-- 💻 CODING PLATFORMS -->
-
-<p align="center">
 
 <a href="https://www.codechef.com/users/anu0814">
   <img
@@ -174,6 +167,8 @@ or creative hacks.
     src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=HackerEarth&logoColor=white"
   />
 </a>
+
+</p>
 
 </p>
 
