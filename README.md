@@ -7,11 +7,11 @@
 <div align="center">
 
 <p>
-  🎓 <b>BE CSE @ JSSATEB</b>
+  🎓 <b> BE CSE @ JSSATEB </b>
 </p>
 
 <p>
-  💡 Exploring AI, Web Dev, and Cloud | Building cool things with code
+  💡 Exploring AI, Web Dev, Cloud and Cybersecurity | Building cool things with code
 </p>
 
 <p>
