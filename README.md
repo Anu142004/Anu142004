@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ananya T</h1>
-<h2><p align="center">🚀 Passionate Computer Science Engineer</p></h2>
+<h1 align="center">🚀 Passionate Computer Science Engineer</h1>
 <p align="center">
   <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="Ananya T" align="left" width="300" height="300"  />
 </p>
 
 <div align="center">
-<h2> </h2>
+
 
 <p>
   🎓 <b>BE CSE @ JSS College</b>
