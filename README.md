@@ -18,7 +18,7 @@
 
 ---
 
-<table class="neon-table">
+<table align="center">
 <tr>
 
 <td width="65%" valign="middle">
