@@ -20,127 +20,240 @@
 
 </div>
 
-<hr color="#00FFFF" size="2">
+<br>
 
-<table align="center">
+<!-- CYAN NEON LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=4&section=header" width="90%">
+</p>
+
+<br>
+
+<!-- ABOUT ME -->
+<table align="center" width="90%">
 <tr>
 
 <td width="65%" valign="middle">
 
-<h3>🧠 About Me:</h3>
+<h2>🧠 About Me:</h2>
 
-<p>🔍 I love solving real-world problems with <b>Data Analysis</b>, <b>AI/ML</b>, and <b>Cloud</b>.</p>
+<p>
+🔍 I love solving real-world problems with 
+<b>Data Analysis</b>, <b>AI/ML</b>, and <b>Cloud</b>.
+</p>
 
-<p>🤝 Collaborator by nature – I enjoy building and creating with like-minded techies.</p>
+<p>
+🤝 Collaborator by nature – I enjoy building and creating 
+with like-minded techies.
+</p>
 
-<p>💬 Always open to discussing tech ideas, open-source, or creative hacks.</p>
+<p>
+💬 Always open to discussing tech ideas, open-source, 
+or creative hacks.
+</p>
 
-<p>🌐 Tech meetups, Hackathons, GSSOC – count me in!</p>
+<p>
+🌐 Tech meetups, Hackathons, GSSOC – count me in!
+</p>
 
 </td>
 
-<td width="35%" align="center">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://github.com/Anu142004/Anu142004/blob/main/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif?raw=true"
-     width="280"
-     alt="Coding Animation">
+<img 
+src="https://github.com/Anu142004/Anu142004/blob/main/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif?raw=true"
+width="280"
+alt="Coding Animation">
 
 </td>
 
 </tr>
 </table>
 
-<hr color="#BF00FF" size="2">
+<br>
 
-<h3>🛠️ Tech Stack:</h3>
-
+<!-- PURPLE NEON LINE -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,aws,vercel,git,github,vscode,html,css,js,sql,mongodb" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=BF00FF&height=4&section=header" width="90%">
 </p>
 
-<hr color="#00FFFF" size="2">
+<br>
 
-<h3>🌐 Connect with Me:</h3>
-
-<p align="center">
-  <a href="https://dev.to/ananya14">
-    <img src="https://skillicons.dev/icons?i=devto" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/ananya-t-52a82524a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="https://stackoverflow.com/users/25868913">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" />
-  </a>
-
-  <a href="https://www.behance.net/ananyat1">
-    <img src="https://skillicons.dev/icons?i=behance" />
-  </a>
-
-  <a href="https://medium.com/@14ananya.anna">
-    <img src="https://skillicons.dev/icons?i=medium" />
-  </a>
-</p>
+<!-- TECH STACK -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <a href="https://www.codechef.com/users/anu0814">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-
-  <a href="https://www.hackerrank.com/profile/14ananya_anna">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-
-  <a href="https://leetcode.com/u/user8879xw/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-
-  <a href="https://www.hackerearth.com/@ananyaevara/">
-    <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=HackerEarth&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,python,aws,vercel,git,github,vscode,html,css,js,mysql,mongodb" />
 </p>
 
-<hr color="#BF00FF" size="2">
+<br>
 
-<h3>🏅 Achievements & Badges:</h3>
+<!-- CYAN NEON LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=4&section=header" width="90%">
+</p>
+
+<br>
+
+<!-- CONNECT -->
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+
+<a href="https://dev.to/ananya14">
+  <img src="https://skillicons.dev/icons?i=devto" />
+</a>
+
+<a href="https://www.linkedin.com/in/ananya-t-52a82524a/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://stackoverflow.com/users/25868913">
+  <img src="https://skillicons.dev/icons?i=stackoverflow" />
+</a>
+
+<a href="https://www.behance.net/ananyat1">
+  <img src="https://skillicons.dev/icons?i=behance" />
+</a>
+
+<a href="https://medium.com/@14ananya.anna">
+  <img src="https://skillicons.dev/icons?i=medium" />
+</a>
+
+</p>
+
+<br>
+
+<!-- CODING PLATFORMS -->
+<p align="center">
+
+<a href="https://www.codechef.com/users/anu0814">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
+</a>
+
+<a href="https://www.hackerrank.com/profile/14ananya_anna">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/u/user8879xw/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+</a>
+
+<a href="https://www.hackerearth.com/@ananyaevara/">
+  <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=HackerEarth&logoColor=white">
+</a>
+
+</p>
+
+<br>
+
+<!-- PURPLE NEON LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=BF00FF&height=4&section=header" width="90%">
+</p>
+
+<br>
+
+<!-- ACHIEVEMENTS -->
+<h2 align="center">🏅 Achievements & Badges</h2>
+
+<br>
 
 <details>
   <summary>🏆 Holopin Badges</summary>
 
-  <a href="https://holopin.io/@anu142004">
-    <img src="https://holopin.me/anu142004" alt="Holopin Badges" />
-  </a>
+  <br>
+
+  <div align="center">
+
+    <a href="https://holopin.io/@anu142004">
+      <img 
+        src="https://holopin.me/anu142004" 
+        alt="Holopin Badges"
+      />
+    </a>
+
+  </div>
+
 </details>
+
+<br>
 
 <details>
   <summary>🛡️ TryHackMe Badge</summary>
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/14ananyaanna08.png"
-       alt="TryHackMe Badge" />
+  <br>
+
+  <div align="center">
+
+    <img 
+      src="https://tryhackme-badges.s3.amazonaws.com/14ananyaanna08.png"
+      alt="TryHackMe Badge"
+    />
+
+  </div>
+
 </details>
+
+<br>
 
 <details>
   <summary>🪶 GSSOC 2024 Badges</summary>
 
+  <br>
+
   <div align="center">
 
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" />
+    <img 
+      src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png"
+      width="100px"
+    />
 
-    <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" />
+    <img 
+      src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png"
+      width="100px"
+    />
 
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" />
+    <img 
+      src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png"
+      width="100px"
+    />
 
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" />
+    <img 
+      src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png"
+      width="100px"
+    />
 
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" />
+    <img 
+      src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png"
+      width="100px"
+    />
 
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" />
+    <img 
+      src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png"
+      width="100px"
+    />
 
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" />
+    <img 
+      src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png"
+      width="100px"
+    />
 
   </div>
+
 </details>
 
-<hr color="#00FFFF" size="2">
+<br>
+
+<!-- CYAN NEON LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=4&section=header" width="90%">
+</p>
+
+<br>
+
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+
+<p align="center">
+  🚀 Keep Learning • Keep Building • Keep Growing 🌱
+</p>
