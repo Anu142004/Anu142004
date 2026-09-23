@@ -65,7 +65,7 @@ or creative hacks.
 <td width="35%" align="center" valign="middle">
 
 <img
-  src="https://github.com/Anu142004/Anu142004/blob/main/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif?raw=true"
+  src="https://github.com/Anu142004/Anu142004/blob/main/e726c74ac081eed50feee1433d12c998.gif?raw=true"
   width="280"
   alt="Coding Animation"
 />
