@@ -17,50 +17,55 @@
 </div>
 
 ---
-<div align="center">
+<style>
+.neon-table {
+    margin: 40px auto;
+    width: 80%;
+    border: 2px solid #00ffff;
+    border-radius: 15px;
+    padding: 20px;
+    transition: 0.4s ease;
+}
 
-<table border="2" bordercolor="#00FFFF" cellpadding="15" cellspacing="0">
+.neon-table:hover {
+    box-shadow:
+        0 0 5px #00ffff,
+        0 0 15px #00ffff,
+        0 0 30px #8a2be2,
+        0 0 50px #8a2be2;
+    border-color: #ff00ff;
+}
+</style>
+</head>
 
+<body>
+
+<table class="neon-table">
 <tr>
 
-<td width="65%" valign="middle" style="padding: 20px;">
+<td width="65%" valign="middle">
 
 <h3>🧠 About Me:</h3>
 
-<p>
-🔍 I love solving real-world problems with 
-<b>Data Analysis</b>, <b>AI/ML</b>, and <b>Cloud</b>.
-</p>
+<p>🔍 I love solving real-world problems with <b>Data Analysis</b>, <b>AI/ML</b>, and <b>Cloud</b>.</p>
 
-<p>
-🤝 Collaborator by nature – I enjoy building and creating 
-with like-minded techies.
-</p>
+<p>🤝 Collaborator by nature – I enjoy building and creating with like-minded techies.</p>
 
-<p>
-💬 Always open to discussing tech ideas, open-source, 
-or creative hacks.
-</p>
+<p>💬 Always open to discussing tech ideas, open-source, or creative hacks.</p>
 
-<p>
-🌐 Tech meetups, Hackathons, GSSOC – count me in!
-</p>
+<p>🌐 Tech meetups, Hackathons, GSSOC – count me in!</p>
 
 </td>
 
-<td width="35%" align="center" valign="middle" style="padding: 15px;">
+<td width="35%" align="center">
 
 <img src="https://github.com/Anu142004/Anu142004/blob/main/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif?raw=true"
-     alt="Coding Animation"
      width="280">
 
 </td>
 
 </tr>
-
 </table>
-
-</div>
 
 
 
