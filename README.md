@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ananya T<span>🚀 Passionate Computer Science Engineer</h1></span>
-
+<h1 align="center">Hi 👋, I'm Ananya T</h1>
+<p>🚀 Passionate Computer Science Engineer</p>
 
 <p align="center">
   <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="Ananya T" align="left" width="300" height="300"  />
