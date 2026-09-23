@@ -7,7 +7,6 @@
 
 <div align="center">
 
-<h2>🚀 Passionate Computer Science Engineer</h2>
 
 <p>
   🎓 <b>BE CSE @ JSS College</b>
