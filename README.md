@@ -115,7 +115,7 @@ or creative hacks.
 <h2 align="center">🌐 Connect with Me</h2>
 
 <br>
-<img src="https://github.com/Anu142004/Anu142004/blob/main/coding.gif?raw=true"
+<img src="https://github.com/Anu142004/Anu142004/blob/main/git-home.gif?raw=true"
      width="300"
      alt="Coding Animation">
 <p align="center">
