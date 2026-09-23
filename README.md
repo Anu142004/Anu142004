@@ -24,7 +24,7 @@
 - 💬 Always open to discussing tech ideas, open-source, or creative hacks.
 - 🌐 Tech meetups, Hackathons, GSSOC – count me in!
 <p align="center">
-  <img src="https://github.com/Anu142004/Anu142004/blob/main/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif?raw=true" alt="Animation" align="center" width="200">
+  <img src="https://github.com/Anu142004/Anu142004/blob/main/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif?raw=true" alt="Animation" align="left" width="300">
 </p>
 ---
 
