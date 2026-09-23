@@ -17,28 +17,6 @@
 </div>
 
 ---
-<style>
-.neon-table {
-    margin: 40px auto;
-    width: 80%;
-    border: 2px solid #00ffff;
-    border-radius: 15px;
-    padding: 20px;
-    transition: 0.4s ease;
-}
-
-.neon-table:hover {
-    box-shadow:
-        0 0 5px #00ffff,
-        0 0 15px #00ffff,
-        0 0 30px #8a2be2,
-        0 0 50px #8a2be2;
-    border-color: #ff00ff;
-}
-</style>
-</head>
-
-<body>
 
 <table class="neon-table">
 <tr>
