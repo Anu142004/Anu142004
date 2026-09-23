@@ -1,7 +1,11 @@
-<h1 align="center" color="#BF00FF">Hi 👋, I'm Ananya T</h1>
+<h1 align="center">Hi 👋, I'm Ananya T</h1>
+
 <h3 align="center">🚀 Passionate Computer Science Engineer</h3>
+
 <br>
-<div align="center" >
+
+<div align="center">
+
 <p>
   🎓 <b>BE CSE @ JSS College</b>
 </p>
@@ -16,7 +20,7 @@
 
 </div>
 
----
+<hr color="#00FFFF" size="2">
 
 <table align="center">
 <tr>
@@ -38,46 +42,73 @@
 <td width="35%" align="center">
 
 <img src="https://github.com/Anu142004/Anu142004/blob/main/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif?raw=true"
-     width="280">
+     width="280"
+     alt="Coding Animation">
 
 </td>
 
 </tr>
 </table>
 
+<hr color="#BF00FF" size="2">
 
-
----
-
-### 🛠️ Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,aws,vercel,git,github,vscode,html,css,js,sql,mangodb" />
-</p>
-
----
-
-### 🌐 Connect with Me:
-<p align="center">
-  <a href="https://dev.to/ananya14"><img src="https://skillicons.dev/icons?i=devto" /></a>
-  <a href="https://www.linkedin.com/in/ananya-t-52a82524a/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://stackoverflow.com/users/25868913"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
-  <a href="https://www.behance.net/ananyat1"><img src="https://skillicons.dev/icons?i=behance" /></a>
-  <a href="https://medium.com/@14ananya.anna"><img src="https://skillicons.dev/icons?i=medium" /></a>
-</p>
+<h3>🛠️ Tech Stack:</h3>
 
 <p align="center">
-  <a href="https://www.codechef.com/users/anu0814"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/14ananya_anna"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/user8879xw/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-  <a href="https://www.hackerearth.com/@ananyaevara/"><img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=HackerEarth&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=java,python,aws,vercel,git,github,vscode,html,css,js,sql,mongodb" />
 </p>
 
----
+<hr color="#00FFFF" size="2">
 
+<h3>🌐 Connect with Me:</h3>
 
-### 🏅 Achievements & Badges:
+<p align="center">
+  <a href="https://dev.to/ananya14">
+    <img src="https://skillicons.dev/icons?i=devto" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/ananya-t-52a82524a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/25868913">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  </a>
+
+  <a href="https://www.behance.net/ananyat1">
+    <img src="https://skillicons.dev/icons?i=behance" />
+  </a>
+
+  <a href="https://medium.com/@14ananya.anna">
+    <img src="https://skillicons.dev/icons?i=medium" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/anu0814">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/14ananya_anna">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/user8879xw/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+
+  <a href="https://www.hackerearth.com/@ananyaevara/">
+    <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=HackerEarth&logoColor=white" />
+  </a>
+</p>
+
+<hr color="#BF00FF" size="2">
+
+<h3>🏅 Achievements & Badges:</h3>
+
 <details>
   <summary>🏆 Holopin Badges</summary>
+
   <a href="https://holopin.io/@anu142004">
     <img src="https://holopin.me/anu142004" alt="Holopin Badges" />
   </a>
@@ -85,20 +116,31 @@
 
 <details>
   <summary>🛡️ TryHackMe Badge</summary>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/14ananyaanna08.png" alt="TryHackMe Badge" />
+
+  <img src="https://tryhackme-badges.s3.amazonaws.com/14ananyaanna08.png"
+       alt="TryHackMe Badge" />
 </details>
 
 <details>
   <summary>🪶 GSSOC 2024 Badges</summary>
+
   <div align="center">
+
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" />
+
     <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" />
+
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" />
+
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" />
+
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" />
+
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" />
+
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" />
+
   </div>
 </details>
 
----
+<hr color="#00FFFF" size="2">
