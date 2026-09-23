@@ -39,7 +39,7 @@
 
 <td width="65%" valign="middle">
 
-<h2>🧠 About Me</h2>
+<h2 align="center">🧠 About Me</h2>
 
 <p>
 🔍 I love solving real-world problems with
