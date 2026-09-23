@@ -17,106 +17,6 @@
 </div>
 
 ---
-Today 3:43 PM
-proper code to make it correct the alignment is wrong
-
-Yes — the cleanest way is to use a 2-column table, with the GIF on the right and your “About Me” content on the left.
-
-Use this exact code:
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-<h3>🧠 About Me:</h3>
-
-<ul>
-  <li>🔍 I love solving real-world problems with <b>Data Analysis</b>, <b>AI/ML</b>, and <b>Cloud</b>.</li>
-  <li>🤝 Collaborator by nature – I enjoy building and creating with like-minded techies.</li>
-  <li>💬 Always open to discussing tech ideas, open-source, or creative hacks.</li>
-  <li>🌐 Tech meetups, Hackathons, GSSOC – count me in!</li>
-</ul>
-
-</td>
-
-<td width="35%" align="right" valign="top">
-
-<img src="https://github.com/Anu142004/Anu142004/blob/main/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif?raw=true" 
-     alt="Coding Animation" 
-     width="300">
-
-</td>
-</tr>
-</table>
-It will look approximately like:
-🧠 About Me:                              ┌──────────────┐
-                                         │              │
-🔍 I love solving real-world problems   │     GIF      │
-   with Data Analysis, AI/ML, and Cloud. │              │
-                                         │              │
-🤝 Collaborator by nature...             └──────────────┘
-                                         
-💬 Always open to discussing tech ideas...
-
-🌐 Tech meetups, Hackathons, GSSOC...
-
-Don't use:
-
-<p align="right">
-
-for the GIF in this case, because it makes the GIF a separate block and doesn't give you control over how the text sits beside it. The <table> gives you much better alignment in a GitHub README.
-
-make the table to glow in neon colors and the table should be in the center
-
-GitHub README does not reliably support CSS <style> blocks or CSS animations, so a true animated neon glow around a table may not render. But you can get a centered neon-style table using HTML with colored borders and emoji accents.
-
-Try this:
-
-<div align="center">
-
-<table>
-<tr>
-<td width="65%" valign="middle">
-
-<h3>🧠 About Me</h3>
-
-<p>🔍 I love solving real-world problems with <b>Data Analysis</b>, <b>AI/ML</b>, and <b>Cloud</b>.</p>
-
-<p>🤝 Collaborator by nature – I enjoy building and creating with like-minded techies.</p>
-
-<p>💬 Always open to discussing tech ideas, open-source, or creative hacks.</p>
-
-<p>🌐 Tech meetups, Hackathons, GSSOC – count me in!</p>
-
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<img src="https://github.com/Anu142004/Anu142004/blob/main/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif?raw=true"
-     alt="Coding Animation"
-     width="280">
-
-</td>
-</tr>
-</table>
-
-</div>
-For a stronger neon look
-
-You can use a neon-themed heading inside the table:
-
-<h3>💜 🧠 About Me ⚡</h3>
-
-However, if you specifically want cyan/purple neon glowing borders, GitHub Markdown won't reliably render custom CSS like:
-
-box-shadow: 0 0 20px #00ffff;
-
-So the safest GitHub-compatible approach is to create the neon border as an image/SVG and place your content over/around it.
-
-add in the code
-
-Yes. Put the neon styling directly into the code like this. This keeps the whole table centered, the GIF on the right, and gives the table a neon cyan/purple appearance.
-
 <div align="center">
 
 <table style="border: 2px solid #00FFFF; border-radius: 15px; box-shadow: 0 0 15px #00FFFF, 0 0 30px #8A2BE2;">
@@ -161,9 +61,6 @@ or creative hacks.
 </table>
 
 </div>
-
-Note: GitHub may strip style, box-shadow, and other CSS from README HTML. If that happens, the border/glow won't appear even though the HTML is correct.
-
 
 
 
