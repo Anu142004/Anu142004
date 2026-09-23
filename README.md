@@ -22,33 +22,37 @@
 
 <br>
 
-<!-- CYAN NEON LINE -->
+<!-- 🌈 RAINBOW LINE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=4&section=header" width="90%">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&section=header"
+    width="90%"
+  />
 </p>
 
 <br>
 
-<!-- ABOUT ME -->
+<!-- 🧠 ABOUT ME -->
+
 <table align="center" width="90%">
 <tr>
 
 <td width="65%" valign="middle">
 
-<h2>🧠 About Me:</h2>
+<h2>🧠 About Me</h2>
 
 <p>
-🔍 I love solving real-world problems with 
+🔍 I love solving real-world problems with
 <b>Data Analysis</b>, <b>AI/ML</b>, and <b>Cloud</b>.
 </p>
 
 <p>
-🤝 Collaborator by nature – I enjoy building and creating 
+🤝 Collaborator by nature – I enjoy building and creating
 with like-minded techies.
 </p>
 
 <p>
-💬 Always open to discussing tech ideas, open-source, 
+💬 Always open to discussing tech ideas, open-source,
 or creative hacks.
 </p>
 
@@ -60,10 +64,11 @@ or creative hacks.
 
 <td width="35%" align="center" valign="middle">
 
-<img 
-src="https://github.com/Anu142004/Anu142004/blob/main/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif?raw=true"
-width="280"
-alt="Coding Animation">
+<img
+  src="https://github.com/Anu142004/Anu142004/blob/main/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif?raw=true"
+  width="280"
+  alt="Coding Animation"
+/>
 
 </td>
 
@@ -72,31 +77,45 @@ alt="Coding Animation">
 
 <br>
 
-<!-- PURPLE NEON LINE -->
+<!-- 🌈 RAINBOW LINE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=BF00FF&height=4&section=header" width="90%">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&section=header"
+    width="90%"
+  />
 </p>
 
 <br>
 
-<!-- TECH STACK -->
+<!-- 🛠️ TECH STACK -->
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
+<br>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,aws,vercel,git,github,vscode,html,css,js,mysql,mongodb" />
+  <img
+    src="https://skillicons.dev/icons?i=java,python,aws,vercel,git,github,vscode,html,css,js,mysql,mongodb"
+  />
 </p>
 
 <br>
 
-<!-- CYAN NEON LINE -->
+<!-- 🌈 RAINBOW LINE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=4&section=header" width="90%">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&section=header"
+    width="90%"
+  />
 </p>
 
 <br>
 
-<!-- CONNECT -->
+<!-- 🌐 CONNECT -->
+
 <h2 align="center">🌐 Connect with Me</h2>
+
+<br>
 
 <p align="center">
 
@@ -124,40 +143,55 @@ alt="Coding Animation">
 
 <br>
 
-<!-- CODING PLATFORMS -->
+<!-- 💻 CODING PLATFORMS -->
+
 <p align="center">
 
 <a href="https://www.codechef.com/users/anu0814">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
+  <img
+    src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"
+  />
 </a>
 
 <a href="https://www.hackerrank.com/profile/14ananya_anna">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  <img
+    src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
+  />
 </a>
 
 <a href="https://leetcode.com/u/user8879xw/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+  <img
+    src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
+  />
 </a>
 
 <a href="https://www.hackerearth.com/@ananyaevara/">
-  <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=HackerEarth&logoColor=white">
+  <img
+    src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=HackerEarth&logoColor=white"
+  />
 </a>
 
 </p>
 
 <br>
 
-<!-- PURPLE NEON LINE -->
+<!-- 🌈 RAINBOW LINE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=BF00FF&height=4&section=header" width="90%">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&section=header"
+    width="90%"
+  />
 </p>
 
 <br>
 
-<!-- ACHIEVEMENTS -->
+<!-- 🏅 ACHIEVEMENTS -->
+
 <h2 align="center">🏅 Achievements & Badges</h2>
 
 <br>
+
+<!-- HOLopin -->
 
 <details>
   <summary>🏆 Holopin Badges</summary>
@@ -167,8 +201,8 @@ alt="Coding Animation">
   <div align="center">
 
     <a href="https://holopin.io/@anu142004">
-      <img 
-        src="https://holopin.me/anu142004" 
+      <img
+        src="https://holopin.me/anu142004"
         alt="Holopin Badges"
       />
     </a>
@@ -179,6 +213,8 @@ alt="Coding Animation">
 
 <br>
 
+<!-- TRYHACKME -->
+
 <details>
   <summary>🛡️ TryHackMe Badge</summary>
 
@@ -186,7 +222,7 @@ alt="Coding Animation">
 
   <div align="center">
 
-    <img 
+    <img
       src="https://tryhackme-badges.s3.amazonaws.com/14ananyaanna08.png"
       alt="TryHackMe Badge"
     />
@@ -197,6 +233,8 @@ alt="Coding Animation">
 
 <br>
 
+<!-- GSSOC -->
+
 <details>
   <summary>🪶 GSSOC 2024 Badges</summary>
 
@@ -204,37 +242,37 @@ alt="Coding Animation">
 
   <div align="center">
 
-    <img 
+    <img
       src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png"
       width="100px"
     />
 
-    <img 
+    <img
       src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png"
       width="100px"
     />
 
-    <img 
+    <img
       src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png"
       width="100px"
     />
 
-    <img 
+    <img
       src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png"
       width="100px"
     />
 
-    <img 
+    <img
       src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png"
       width="100px"
     />
 
-    <img 
+    <img
       src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png"
       width="100px"
     />
 
-    <img 
+    <img
       src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png"
       width="100px"
     />
@@ -245,9 +283,13 @@ alt="Coding Animation">
 
 <br>
 
-<!-- CYAN NEON LINE -->
+<!-- 🌈 FINAL RAINBOW LINE -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=4&section=header" width="90%">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&section=header"
+    width="90%"
+  />
 </p>
 
 <br>
