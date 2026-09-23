@@ -21,13 +21,12 @@
 ### 🧠 About Me:
 - 🔍 I love solving real-world problems with **Data Analysis**, **AI/ML**, and **Cloud**.
 - 🤝 Collaborator by nature – I enjoy building and creating with like-minded techies.
+  <p align="right">
+  <img src="https://github.com/Anu142004/Anu142004/blob/main/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif?raw=true" alt="Animation"  width="300">
+</p>
 - 💬 Always open to discussing tech ideas, open-source, or creative hacks.
 - 🌐 Tech meetups, Hackathons, GSSOC – count me in!
 
-  
-<p align="right">
-  <img src="https://github.com/Anu142004/Anu142004/blob/main/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif?raw=true" alt="Animation"  width="300">
-</p>
 
 
 
