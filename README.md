@@ -121,7 +121,7 @@ or creative hacks.
      alt="Coding Animation"
      align="right">
 
-<p align="center" height=790>
+<p align="center" >
 
 <a href="https://dev.to/ananya14">
   <img src="https://skillicons.dev/icons?i=devto" />
