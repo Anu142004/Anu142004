@@ -34,10 +34,7 @@
 
 <!-- 🧠 ABOUT ME -->
 
-<table align="center" width="90%" border="2"
-       bordercolor="#8A2BE2"
-       cellpadding="20"
-       cellspacing="0">
+<table align="center" width="90%" >
 <tr>
 
 <td width="65%" valign="middle">
