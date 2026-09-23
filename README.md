@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananya T</h1>
-<h3 align="center">🚀 Passionate Computer Science Engineer</h3>
+<h3 align="center" color="#BF00FF">🚀 Passionate Computer Science Engineer</h3>
 <br>
 <div align="center">
 <p>
