@@ -63,13 +63,12 @@ or creative hacks.
 </td>
 
 <td width="35%" align="center" valign="middle">
-
+<p align="left">
 <img
   src="https://github.com/Anu142004/Anu142004/blob/main/e726c74ac081eed50feee1433d12c998.gif?raw=true"
   width="280"
-  alt="Coding Animation"
 />
-
+</p>
 </td>
 
 </tr>
