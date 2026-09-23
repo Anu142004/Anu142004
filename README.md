@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ananya T<br> 🚀 Passionate Computer Science Engineer</h1>
+<h1 align="center">Hi 👋, I'm Ananya T<span>🚀 Passionate Computer Science Engineer</h1></span>
 
 
 <p align="center">
