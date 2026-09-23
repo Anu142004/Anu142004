@@ -117,7 +117,7 @@ or creative hacks.
 <br>
 
 <img src="https://github.com/Anu142004/Anu142004/blob/main/git-home.gif?raw=true"
-     width="300" height=400
+     width="300" height=200 cellpadding="10"
      alt="Coding Animation"
      align="right">
 
