@@ -7,7 +7,7 @@
 <div align="center">
 
 <p>
-  🎓 <b>BE CSE @ JSS College</b>
+  🎓 <b>BE CSE @ JSSATEB</b>
 </p>
 
 <p>
