@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  🎓 BE CSE @ <strong>JSS College</strong> 
-  <br>
-  💡 Exploring AI, Web Dev, and Cloud | Building cool things with code <br>
-  🌱 Always learning, always growing 🌟
+🎓 BE CSE @<strong>JSS College</strong> 
+<br>
+💡 Exploring AI, Web Dev, and Cloud | Building cool things with code <br>
+🌱 Always learning, always growing 🌟
 </p>
 
 ---
